@@ -1,5 +1,5 @@
 # Web-Browser-Like-WPF-App
-A WPF app that resembles a web browser. This sample is meant to be used as an example of how to mix these libraries. Good practices aren't implemented so beware!
+A WPF app that resembles a web browser. Good practices aren't implemented so beware!
 
 It uses Prism.DryIoc, Dragablz, MaterialDesignInXaml and MahApps.Metro Window.
 
