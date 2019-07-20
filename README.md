@@ -5,6 +5,8 @@ It uses Prism.DryIoc, Dragablz, MaterialDesignInXaml and MahApps.Metro Window.
 
 Remember to restore nuget packages before using it!
 
+![](demo.gif)
+
 # What you'll find:
 
 This example is based on: https://github.com/svantreeck/DragablzPrism so i reccomend checking that before!
